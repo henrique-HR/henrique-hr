@@ -1,6 +1,6 @@
 # Olá, eu sou o Henrique 👋
 
-Desenvolvedor Full Stack autodidata desde 2016, apaixonado por resolver problemas reais através do código. Construí minha base estudando por conta própria — um erro de cada vez, um projeto de cada vez.
+Desenvolvedor Full Stack autodidata desde 2021, apaixonado por resolver problemas reais através do código. Construí minha base estudando por conta própria — um erro de cada vez, um projeto de cada vez.
 
 ---
 
@@ -82,4 +82,4 @@ Tecnologias: Node.js · whatsapp-web.js · Groq AI · JavaScript
 
 ---
 
-⭐ *"Comecei do zero em 2016 e não parei mais. Cada projeto é uma nova aula."*
+⭐ *"Comecei do zero em 2021 e não parei mais. Cada projeto é uma nova aula."*
