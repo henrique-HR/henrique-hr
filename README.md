@@ -43,7 +43,7 @@ Sistema completo de delivery com dois painéis distintos: área do cliente e pai
 
 **Tecnologias:** PHP · Framework Sheep · MySQL · JavaScript · Bootstrap · HTML5 · CSS3
 
-🔗 [Ver projeto no ar](https://pizzadoferreira.online)
+
 
 ---
 
